@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*__pycache__/
+*.vscode/
+.gitconfig
+
+.python-version
+.env
+env/
+.venv
+
+scratch.ipynb
